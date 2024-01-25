@@ -39,7 +39,6 @@ stack = []
 def elm_picker(list):
     return list[random.randint(0, (len(list) - 1))]
 
-
 for k, v in elm_picker(available_stacks).items():    
     if isinstance(v, list):
         stack.append(elm_picker(v))
