@@ -19,5 +19,5 @@ cd "repo location"
 Executed it:
 
 ```bash
-python ./main.py
+python main.py
 ```
