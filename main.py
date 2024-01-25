@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import random
 
 # "js", "py", "java", "c#", "php"
