@@ -15,6 +15,6 @@ $ cd "repo location"
 '''
 
 Executed it:
-'''bash
+' ' 'bash
 $ ./main.py
-'''
+' ' '
